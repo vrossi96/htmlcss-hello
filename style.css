@@ -40,4 +40,7 @@
     bottom: 25%;
     left: 50%;
     transform: translate(-50%);
+    /* Text characteristics */
+    text-align: center;
+    font-weight: bolder;
 }
